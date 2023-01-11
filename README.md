@@ -17,4 +17,4 @@ There were 25,094 unpaid reviews that met the above criteria, of which 12,033 (o
 <img width="760" alt="unpaid_reviews" src="https://user-images.githubusercontent.com/111674383/211768497-5238bc41-bade-4145-9e76-2e2f73820977.png">
 
 ## Summary
-
+While it may have been expected that the reviews written by Amazon Vine members (who were paid for their feedback) would have a greater percentage of 5 star reviews, the opposite ended up being true. 47.95% of the unpaid reviews rated a product with 5 stars, compared to 43.63% of the paid reviews. This provides evidence that paying customers to leave product reviews does not bias or skew the overall product rating with artificially high scores.
